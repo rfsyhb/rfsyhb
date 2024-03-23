@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rfsyhb also known as limau
 - 🌱 Surviving and learning as an Computer Science student '21, helped by ChatGPT
-- ✨ Find all my learning journey at [**rfsyhb.github.io**](https://rfsyhb.github.io/)
+- ✨ Find all my learning journey at [**rfsyhb.github.io**](https://rfsyhb.github.io/) (not up to date)
 
 <!---
 rfsyhb/rfsyhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
