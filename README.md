@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/947135809411248249/1242156274242682950/Beige_LinkedIn.png?ex=664ccfad&is=664b7e2d&hm=d7a0b1907378631d449d7b495b30f2eb6a6e1168ed18e70735a6dce5fd8bdad8&=&format=webp&quality=lossless&width=1440&height=360)
+![Banner](https://media.licdn.com/dms/image/D5616AQFhDKsinBKsAA/profile-displaybackgroundimage-shrink_350_1400/0/1716176135519?e=1721865600&v=beta&t=PpcMQENHqWxrw913FuTzfQtINxTaVoR9USvK1AFRo_4)
 
 - 👋 Hi, I’m rfsyhb also known as limau
 - 🌱 Surviving and learning as an Computer Science student '21, helped by ChatGPT
