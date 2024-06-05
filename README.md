@@ -1,11 +1,11 @@
 ![Banner](https://media.licdn.com/dms/image/D5616AQFhDKsinBKsAA/profile-displaybackgroundimage-shrink_350_1400/0/1716176135519?e=1721865600&v=beta&t=PpcMQENHqWxrw913FuTzfQtINxTaVoR9USvK1AFRo_4)
 ## Halloo!
--👋 Hi, I’m Rafi Syihab, also known as limau.
--🌱 Informatics Engineering student '21 at Universitas Palangka Raya.
--💬 Native Indonesian speaker, proficient in English comprehension.
--🎓 Selected mentee in the SIB Kemendikbud x Dicoding Batch 6 for React and Back-End Development.
--💻 Passionate about web development, specializing in ReactJS.
--🚀 Continuously exploring new technologies and industry trends.
+- 👋 Hi, I’m Rafi Syihab, also known as limau.
+- 🌱 Informatics Engineering student '21 at Universitas Palangka Raya.
+- 💬 Native Indonesian speaker, proficient in English comprehension.
+- 🎓 Selected mentee in the SIB Kemendikbud x Dicoding Batch 6 for React and Back-End Development.
+- 💻 Passionate about web development, specializing in ReactJS.
+- 🚀 Continuously exploring new technologies and industry trends.
 
 ## Connect with me
 
