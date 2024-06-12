@@ -5,7 +5,8 @@
 - 💬 Native Indonesian speaker, proficient in English comprehension.
 - 🎓 Selected mentee in the SIB Kemendikbud x Dicoding Batch 6 for React and Back-End Development.
 - 💻 Passionate about web development, specializing in ReactJS.
-- 🚀 Continuously exploring new technologies and industry trends.
+- 🚀 Full-stack developer for the GrowHub, a capstone project, currently deployed and in the bug-fixing stage at [GrowHub](https://growhub-frontend-beta.vercel.app/).
+- 🔍 Continuously exploring new technologies and industry trends.
 
 ## Connect with me
 
