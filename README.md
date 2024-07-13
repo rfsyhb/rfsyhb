@@ -6,7 +6,7 @@
 - 🎓 Selected as a mentee in the SIB Kemendikbud x Dicoding Batch 6 for React and Back-End Development.
 - 💻 Passionate about web development, specializing in ReactJS.
 - 🚀 Full-stack developer for the [GrowHub](https://github.com/cp-GrowHub), a capstone project, currently deployed at [GrowHub (Vercel)](https://growhub-frontend-beta.vercel.app/).
-- 🌾 Created [doNow](https://github.com/rfsyhb/doNow), a simple timer with history to help maintain and track my tasks [doNow (Vercel)](https://donow-coy.vercel.app/).
+- 🌾 Created [meWhen](https://github.com/rfsyhb/meWhen), a simple timer with history and private todo to help maintain and track my tasks [meWhen (Vercel)](https://mewhen-sir.vercel.app/).
 - 🔍 Continuously exploring new technologies and industry trends.
 
 ## Connect with me
