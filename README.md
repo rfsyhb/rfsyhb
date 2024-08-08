@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQFhDKsinBKsAA/profile-displaybackgroundimage-shrink_350_1400/0/1716176135519?e=1721865600&v=beta&t=PpcMQENHqWxrw913FuTzfQtINxTaVoR9USvK1AFRo_4)
+![Banner](https://media.licdn.com/dms/image/D5616AQFhDKsinBKsAA/profile-displaybackgroundimage-shrink_350_1400/0/1716176135519?e=1728518400&v=beta&t=9EdU4_xjrS3Ag1UfxY0PAiJ8dfOK2DmF1Kg17CZXiog)
 ## Halloo!
 - 👋 Hi, I’m Rafi Syihab, also known as limau.
 - 🌱 Informatics Engineering student '21 at Universitas Palangka Raya.
