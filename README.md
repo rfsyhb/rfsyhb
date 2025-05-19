@@ -3,14 +3,9 @@
 - 👋 Hi, I’m Rafi Syihab, also known as limau.
 - 🌱 Informatics Engineering student '21 at Universitas Palangka Raya.
 - 💬 Native Indonesian speaker, proficient in English comprehension.
-- 🎓 Selected as a mentee in the SIB Kemendikbud x Dicoding Batch 6 for React and Back-End Development.
-- 💻 Passionate about web development, specializing in ReactJS.
-- 🚀 Full-stack developer for the [GrowHub](https://github.com/cp-GrowHub), a capstone project, currently deployed at [GrowHub (Vercel)](https://growhub-frontend-beta.vercel.app/).
-- 🌾 Created [meWhen](https://github.com/rfsyhb/meWhen), a simple timer with history and private todo to help maintain and track my tasks [meWhen (Vercel)](https://mewhen-sir.vercel.app/).
-- 🔍 Continuously exploring new technologies and industry trends.
+- 🔍 Continuously exploring new technologies and trends.
 
 ## Connect with me
-
 - [LinkedIn](https://www.linkedin.com/in/rfsyhb/) 
 - [Instagram](https://www.instagram.com/ozrafi/)
 <!---
